@@ -1,0 +1,5 @@
+C:\Users\maloc\Documents\INGESUP\B3\dotNet\ConsoleApplication\ConsoleApplication\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\maloc\Documents\INGESUP\B3\dotNet\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.dll
+C:\Users\maloc\Documents\INGESUP\B3\dotNet\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\maloc\Documents\INGESUP\B3\dotNet\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.dll
+C:\Users\maloc\Documents\INGESUP\B3\dotNet\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
